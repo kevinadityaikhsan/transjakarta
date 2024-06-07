@@ -38,8 +38,10 @@ Transjakarta faces challenges in managing resources and meeting the diverse need
 • Explore fare discounts or promotional offers for specific demographics during off-peak hours to incentivize usage and balance ridership throughout the day.
 
 Transjakarta Dashboard Link:
+<br>
 https://public.tableau.com/app/profile/kevinadityaikhsan/viz/TransjakartaDashboard_17176813183480/Dashboard1?publish=yes
 
 Transjakarta Story Link:
+<br>
 https://public.tableau.com/app/profile/kevinadityaikhsan/viz/TransjakartaStory/Story1
 
